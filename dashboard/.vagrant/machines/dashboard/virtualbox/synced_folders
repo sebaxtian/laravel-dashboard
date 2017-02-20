@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/dashboard":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/dashboard","hostpath":"/home/sebaxtian/Workspace/Laravel/laravel-dashboard/dashboard","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/sebaxtian/Workspace/Laravel/laravel-dashboard/dashboard","disabled":false,"__vagrantfile":true}}}
